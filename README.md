@@ -8,7 +8,7 @@ This browser app features dynamically updated HTML and CSS powered by JavaScript
 
 ### **Some Technical Features Include:**
 ```
-- Functional button to copy password generated
+- Functional button to copy generated password
 
 - Presentation of numerous options for password adjustments.
 ```
